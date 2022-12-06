@@ -2,7 +2,7 @@ import os
 from pyrogram import Client
 from os import mkdir
 
-app_id = int(input("API_ID", 12345))
+app_id = int(input("API_ID"))
 app_key = input('API_HASH')
 token = input('BOT_TOKEN')
 
